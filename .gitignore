@@ -27,3 +27,4 @@ proguard/
 
 # Scala
 target/
+project/target/
